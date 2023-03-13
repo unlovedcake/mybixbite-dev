@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569955713866",
+    "project_id": "my-bixbite-19f75",
+    "storage_bucket": "my-bixbite-19f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569955713866:android:e1b4827a008a9df896f7b3",
+        "android_client_info": {
+          "package_name": "com.mybixbite.app.mybixbite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569955713866-erp8vhqhn6jrbvcve1ubrshn4q9s9s6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mybixbite.app.mybixbite",
+            "certificate_hash": "7188ab69a152bf769470c308a19cfb695e369de5"
+          }
+        },
+        {
+          "client_id": "569955713866-5ggtpkjnmesrtul3csqce7mdpmv0gj6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXOjX5EaQ_a4An6Dj4FXTv2BpqSEn11jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569955713866-5ggtpkjnmesrtul3csqce7mdpmv0gj6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
